@@ -1,0 +1,90 @@
+nav {
+    width: 100%;
+    height: 45px;
+    background-color: black;
+}
+ 
+nav a {
+    display: block;
+    float: left;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    text-decoration: none;
+}
+
+ .logo {
+    width: 99px;
+    height: auto;
+    float: right;
+ }
+
+ li {
+    list-style-type: none;
+    margin: 0;
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+
+.death {
+    padding-bottom: 100px;
+}
+
+body {
+    height: 100px;
+    font-family: "Times New Roman", Times, serif;
+    background-color: darkgray
+}
+img {
+    width: 200px;
+    height: auto;
+    float: left;
+}
+p {
+        text-align: justify;
+        text-indent: 2em;
+}
+.footer {
+    height: auto;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: left;
+    list-style-type: none;
+}
+article {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.warholPersonal {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.earlyCareer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.fifties {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
